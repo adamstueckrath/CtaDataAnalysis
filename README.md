@@ -7,8 +7,8 @@ Hi Cameo 👋 my name is Adam Stueckrath. I'm a highly motivated and passionate 
 
 I'm very excited to interview with you, and I hope I can bring my skills, enthusiasm, and engergy to your amazing organization. 
 
-# Cameo Technical Assessment
 
+## Cameo Technical Assessment
 ### About:
 At Cameo, data analysts start with a variety of production data, which can often be messy. Analysts clean, explore, and transform this production data into useful datasets. Analysts then work with the data to find insights, build dashboards, & run models/projections.
 
