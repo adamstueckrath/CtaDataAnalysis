@@ -11,7 +11,7 @@ While working on the technical assessment, I wanted to demostrate a variety of s
 I also wanted to demostrate my ability of using version control (Git), and good documentation. 
 
 ### Part 1 - ETL 
-Read here: [CTA_Analysis_Part_1]("CTA_Analysis_Part_1.ipynb")
+Read here: [CTA_Analysis_Part_1](https://github.com/adamstueckrath/CtaDataAnalysis/blob/master/CTA_Analysis_Part_1.ipynb)
 
 In part 1 of analysis I developed a simple ETL (extract, transform, load) pipline. I pulled the CTA data through the Socrata API, santized the data, and created a normalized database. Lastly, I loaded the data set into the database tables. Here are the tools I used: 
 * Python 3.6.5
@@ -20,7 +20,9 @@ In part 1 of analysis I developed a simple ETL (extract, transform, load) piplin
 * SQLite3
 
 ### Part 2 - Visualizations
-Read here: [CTA_Analysis_Part_2]("CTA_Analysis_Part_2.ipynb")
+Read here: [CTA_Analysis_Part_2](https://github.com/adamstueckrath/CtaDataAnalysis/blob/master/CTA_Analysis_Part_2.ipynb)
+
+
 
 
 ## Cameo Technical Assessment
