@@ -6,7 +6,7 @@ Hi Cameo 👋 my name is Adam Stueckrath. I'm a highly motivated and passionate 
 I'm excited to interview with you, and I hope I can bring my skills, enthusiasm, and engergy to your organization. 
 
 ## Overview
-While working on the technical assessment, I wanted to demostrate a variety of skills that would make me a great Data Analyst at Cameo, and add value to the company. I choose to write my analysis using Juypter Notebooks to explain my reasoning, and show my work. Being a good data analyst is about telling a story and explaining the steps involved. 
+While working on the technical assessment, I wanted to demostrate a variety of skills that would make me a great Data Analyst at Cameo, and add value to the company. I choose to write my analysis in Python and SQL, using Juypter Notebook to explain my reasoning, and show my work. Being a good data analyst is about telling a story and explaining the steps involved. 
 
 I also wanted to demostrate my ability of using version control (Git), and good documentation. 
 
