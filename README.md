@@ -1,19 +1,19 @@
 # CTA Data Analysis - Part 1 
 --- 
 ## Introduction
-Hi Cameo 👋 my name is Adam Stueckrath. I'm a highly motivated and passionate engineer who loves data, agile environments, and a strong cup of coffee. I enjoy learning new technologies, solving complex problems, and corgis. 
+Hi Cameo 👋 My name is Adam Stueckrath. I'm a highly motivated and passionate engineer who loves data, agile environments, and a strong cup of coffee. I enjoy learning new technologies, solving complex problems and corgis. 
 
 I'm excited to interview with you, and I hope I can bring my skills, enthusiasm, and engergy to your organization. 
 
 ## Overview
-While working on the technical assessment, I wanted to demostrate a variety of skills that would make me a great Data Analyst at Cameo, and add value to the company. I choose to write my analysis in Python and SQL, using Juypter Notebook to explain my reasoning, and show my work. Being a good data analyst is about telling a story and explaining the steps involved. 
+While working on the technical assessment, I wanted to demostrate a variety of skills that would make me a great Data Analyst at Cameo and add value to the company. I chose to write my analysis in Python and SQL, using Juypter Notebook to explain my work. Being a good data analyst is about telling a story and explaining the steps involved. 
 
-I also wanted to demostrate my ability of using version control (Git), and good documentation. 
+I also wanted to demostrate my ability to use version control (Git) and provide good documentation. 
 
 ### Part 1 - ETL 
 Read here: [CTA_Analysis_Part_1](https://github.com/adamstueckrath/CtaDataAnalysis/blob/master/CTA_Analysis_Part_1.ipynb)
 
-In part 1 of analysis I developed a simple ETL (extract, transform, load) pipline. I pulled the CTA data through the Socrata API, santized the data, and created a normalized database. Lastly, I loaded the data set into the database tables. Here are the tools I used: 
+In part 1 of my analysis I developed a simple ETL (extract, transform, load) pipline. I pulled the CTA data through the Socrata API, santized the data, and created a normalized database. Lastly, I loaded the data set into the database tables. Here are the tools I used: 
 * Python 3.6.5
 * Socrata
 * Pandas
@@ -21,7 +21,13 @@ In part 1 of analysis I developed a simple ETL (extract, transform, load) piplin
 
 ### Part 2 - Visualizations
 Read here: [CTA_Analysis_Part_2](https://github.com/adamstueckrath/CtaDataAnalysis/blob/master/CTA_Analysis_Part_2.ipynb)
-
+In part 2 of my analysis I'm going to create visualizations on the data. The analysis will consist of categorical reports and geospatial visualizations. Here are the tools I used: 
+* Python 3.6.5
+* Pandas
+* SQLite3
+* Seaborn
+* Matplotlib
+* Folium
 
 
 
