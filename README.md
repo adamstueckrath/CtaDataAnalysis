@@ -21,6 +21,7 @@ In part 1 of my analysis I developed a simple ETL (extract, transform, load) pip
 
 ### Part 2 - Visualizations
 Read here: [CTA_Analysis_Part_2](https://github.com/adamstueckrath/CtaDataAnalysis/blob/master/CTA_Analysis_Part_2.ipynb)
+
 In part 2 of my analysis I'm going to create visualizations on the data. The analysis will consist of categorical reports and geospatial visualizations. Here are the tools I used: 
 * Python 3.6.5
 * Pandas
