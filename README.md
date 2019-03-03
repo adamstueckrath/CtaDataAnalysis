@@ -1,7 +1,7 @@
 # CTA Data Analysis
 --- 
 ## Overview
-I wanted to demonstrate a variety of skills that would make me a great Data Analyst and add value to the company. I chose to write my analysis in Python and SQL, using Jupyter Notebook to explain my work. Being a good data analyst is about telling a story and explaining the steps involved. 
+I chose to write my analysis in Python and SQL, using Jupyter Notebook to explain my work. Being a good data analyst is about telling a story and explaining the steps involved. 
 
 I also wanted to demonstrate my ability to use version control (Git) and provide good documentation. 
 
